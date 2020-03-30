@@ -39,5 +39,8 @@
         "psr-0": {
             "PHPExcel": "Classes/"
         }
-    }
+    },
+    "replace": {
+		"phpoffice/phpexcel": "1.8.2"
+	}
 }
